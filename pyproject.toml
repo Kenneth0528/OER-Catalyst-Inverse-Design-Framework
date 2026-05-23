@@ -1,0 +1,18 @@
+[project]
+name = "oer-catalyst-ml-ga"
+version = "0.1.0"
+description = "XGBoost and genetic-algorithm workflow for OER catalyst composition screening."
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "openpyxl",
+    "pandas",
+    "pymatgen",
+    "scikit-learn",
+    "seaborn",
+    "xgboost",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
