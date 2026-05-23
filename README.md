@@ -12,8 +12,6 @@ The repository is organized as a cleaned showcase version of a larger explorator
 - **Dataset:** adsorption/reaction-energy data derived from O*/OH* reaction records, plus pseudo-labelled examples.
 - **Current best benchmark:** top-feature XGBoost on the true + pseudo-labelled dataset gives **5-fold CV test R² = 0.8205 ± 0.0372** and **MAE = 0.2069 ± 0.0103 eV**.
 
-![Convergence plot](assets/convergencePlot.png)
-
 ## Repository Structure
 
 ```text
