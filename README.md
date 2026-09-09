@@ -10,7 +10,7 @@ The repository is organized as a cleaned showcase version of a larger explorator
 - **Model:** XGBoost regression using elemental-property descriptors and coordination number.
 - **Search:** genetic algorithm over composition space, with mutation, crossover, elitism, and coordination-number sweeps.
 - **Dataset:** adsorption/reaction-energy data derived from O*/OH* reaction records, plus pseudo-labelled examples.
-- **Current best benchmark:** top-feature XGBoost on the true + pseudo-labelled dataset gives **5-fold CV test R² = 0.8205 ± 0.0372** and **MAE = 0.2069 ± 0.0103 eV**.
+- **Current best benchmark:** top-feature XGBoost on the true + pseudo-labelled dataset gives **5-fold CV test R² = 0.820 ± 0.037** and **MAE = 0.207 ± 0.010 eV**.
 
 ## Repository Structure
 
