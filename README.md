@@ -1,6 +1,6 @@
 # ML-Guided Inverse Design of OER Catalyst Compositions
 
-This project explores a machine-learning workflow for oxygen evolution reaction (OER) catalyst discovery. The core idea is to train a regression model on adsorption/reaction-energy data, then use a genetic algorithm (GA) to search catalyst compositions whose predicted energetics are close to a target value.
+This project explores machine-learning workflow for oxygen evolution reaction (OER) catalyst discovery. The core idea is to train a regression model on adsorption/reaction-energy data, then use a genetic algorithm (GA) to search catalyst compositions whose predicted energetics are close to a target value.
 
 The repository is organized as a cleaned showcase version of a larger exploratory course project. The original work was developed mainly in Jupyter notebooks; the reusable parts have been extracted into small Python modules and scripts.
 
