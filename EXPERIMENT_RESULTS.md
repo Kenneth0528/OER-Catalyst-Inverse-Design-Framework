@@ -10,7 +10,7 @@ Original cleaned benchmark:
 | --- | --- | --- | ---: | ---: |
 | All rows | Top 9 descriptors | XGBoost | 0.8205 ± 0.0372 | 0.2069 ± 0.0103 eV |
 
-## Descriptor and Model Expansion
+## Descriptors and Model Expansion
 
 The most useful non-leaky improvements were:
 

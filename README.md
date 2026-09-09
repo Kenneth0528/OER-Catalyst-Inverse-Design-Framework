@@ -6,7 +6,7 @@ The repository is organized as a cleaned showcase version of a larger explorator
 
 ## Project Snapshot
 
-- **Goal:** screen catalyst compositions for promising OER reaction-energy targets.
+- **Goal:** screen catalyst compositions for promising OER reaction energy targets.
 - **Model:** XGBoost regression using elemental-property descriptors and coordination number.
 - **Search:** genetic algorithm over composition space, with mutation, crossover, elitism, and coordination-number sweeps.
 - **Dataset:** adsorption/reaction-energy data derived from O*/OH* reaction records, plus pseudo-labelled examples.

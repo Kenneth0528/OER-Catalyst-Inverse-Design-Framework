@@ -4,7 +4,7 @@
 
 The project combines several layers of materials-informatics work:
 
-- data extraction and merging from reaction-energy records;
+- data extraction and merging from reaction energy records;
 - feature engineering from elemental properties and coordination environments;
 - supervised regression for OER-relevant adsorption/reaction energy;
 - pseudo-labelling to expand a small labelled dataset;
